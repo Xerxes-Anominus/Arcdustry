@@ -1,0 +1,13 @@
+name: arcdustry
+displayName: Arcdustry
+
+author: "[#0000ff[]]Xe[#0066ff[]]rx[#00ccff[]]es[[]]"
+
+description: "
+Add more abilities for unit and some new sector"
+subtitle: Arc I
+
+version: 1
+minGameVersion: 157.4
+
+hidden: true
