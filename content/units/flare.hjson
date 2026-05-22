@@ -1,0 +1,5 @@
+health: 1
+speed: 20
+
+drag: 0.9
+accel: 1

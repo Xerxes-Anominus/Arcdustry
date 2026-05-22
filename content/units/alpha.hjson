@@ -1,0 +1,21 @@
+abilities: [
+    {
+    type: UnitSpawnAbility
+
+    unit: mono
+
+    spawnTime: 18000
+    }
+    {
+    type: ShieldArcAbility
+
+    radius: 8
+    width: 4
+
+    angle: 90
+
+    max: 500
+    regen: 0.25
+    cooldown: 600
+    }
+]
