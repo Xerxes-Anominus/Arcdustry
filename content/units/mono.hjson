@@ -1,0 +1,16 @@
+abilities: [
+    {
+    type: EnergyFieldAbility
+
+    damage: 15
+
+    range: 40
+    reload: 20
+
+    healPercent: 0.5
+
+    maxTargets: 3
+
+    color: 39FF14
+    }
+]

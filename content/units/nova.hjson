@@ -1,0 +1,22 @@
+range: 120
+
+weapons: [
+    {
+    name: nova-weapon
+
+    range: 120
+    reload: 180
+
+    bullet: {
+        type: ContinuousLaserBulletType
+
+        damage: 15
+        lifetime: 90
+
+        width: 8
+        length: 120
+
+        colors: [39FF14, FFFFFF]
+    }
+    }
+]

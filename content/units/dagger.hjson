@@ -1,0 +1,9 @@
+abilities: [
+    {
+    type: UnitSpawnAbility
+
+    unit: dagger
+
+    spawnTime: 960
+    }
+]

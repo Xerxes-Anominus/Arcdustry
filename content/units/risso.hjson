@@ -1,0 +1,28 @@
+abilities: [
+    {
+    type: ShieldArcAbility
+
+    radius: 16
+    width: 4
+
+    angle: 120
+    angleOffset: 90
+
+    max: 400
+    regen: 0.2
+    cooldown: 600
+    }
+    {
+    type: ShieldArcAbility
+
+    radius: 16
+    width: 4
+
+    angle: 120
+    angleOffset: 270
+
+    max: 400
+    regen: 0.2
+    cooldown: 600
+    }
+]

@@ -1,0 +1,12 @@
+abilities: [
+    {
+    type: ForceFieldAbility
+
+    radius: 24
+    sides: 6
+
+    max: 1
+    regen: 1
+    cooldown: 0
+    }
+]
