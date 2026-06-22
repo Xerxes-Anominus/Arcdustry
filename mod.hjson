@@ -1,0 +1,16 @@
+name: arcdustry
+displayName: Arcdustry
+
+author: "[#0000ff[]]Xe[#0066ff[]]rx[#00ccff[]]es[[]]"
+
+description: ""
+subtitle: ""
+
+version: 1
+minGameVersion: 158.1
+
+hidden: true
+java: false
+
+dependencies: [
+]
