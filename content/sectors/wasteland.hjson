@@ -1,0 +1,19 @@
+name: wasteland
+
+sector: 218
+
+difficulty: 0
+
+planet: serpulo
+
+captureWave: 50
+
+research: {
+    parent: groundZero
+    objectives: [
+        {
+        type: SectorComplete
+        preset: groundZero
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+name: sunshine-valley
+
+sector: 6
+
+difficulty: 9
+
+planet: serpulo
+
+captureWave: 150
+
+research: {
+    parent: westland-river
+    objectives: [
+        {
+        type: SectorComplete
+        preset: westland-river
+        }
+    ]
+}

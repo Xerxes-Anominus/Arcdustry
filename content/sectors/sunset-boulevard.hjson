@@ -1,0 +1,19 @@
+name: sunset-boulevard
+
+sector: 122
+
+difficulty: 10
+
+planet: serpulo
+
+captureWave: 200
+
+research: {
+    parent: sunshine-valley
+    objectives: [
+        {
+        type: SectorComplete
+        preset: sunshine-valley
+        }
+    ]
+}

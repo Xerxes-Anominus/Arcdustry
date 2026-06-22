@@ -1,0 +1,19 @@
+name: westland-river
+
+sector: 125
+
+difficulty: 8
+
+planet: serpulo
+
+captureWave: 100
+
+research: {
+    parent: wasteland
+    objectives: [
+        {
+        type: SectorComplete
+        preset: wasteland
+        }
+    ]
+}
